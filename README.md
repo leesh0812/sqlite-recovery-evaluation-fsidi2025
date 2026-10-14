@@ -11,7 +11,6 @@ https://doi.org/10.1016/j.fsidi.2025.302031
 This repository contains only the additional test cases. It does not
 replace or redistribute the complete original SQLite Forensic Corpus.
 
-The WAL cases were regenerated using the scenario described in the paper.
 The generation and snapshot procedures used here are documented below.
 
 ## Contents
@@ -54,7 +53,7 @@ again will not produce a byte-identical DB.
 
 1. Create `Students`.
 2. Insert 20 records.
-3. Delete all 20 records using `DELETE FROM `Students`;`
+3. Delete all 20 records using `DELETE FROM Students;`
 4. Drop `Students`.
 5. Create `Students_2` with the same column definitions.
 6. Insert 20 new records.
