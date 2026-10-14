@@ -1,0 +1,12 @@
+Database files (.db), WAL files (.db-wal), and documentation
+in this repository are licensed under the Creative Commons Attribution
+4.0 International License (CC BY 4.0), to the extent that the repository
+contributors hold the applicable rights.
+
+Attribution: SQLite Recovery Evaluation contributors
+Paper: https://doi.org/10.1016/j.fsidi.2025.302031
+
+License: https://creativecommons.org/licenses/by/4.0/
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+SQL scripts and source code are covered by the MIT License in LICENSE.

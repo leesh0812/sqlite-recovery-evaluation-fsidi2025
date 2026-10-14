@@ -1,0 +1,12 @@
+# SQLite transient files; keep the corpus DB and WAL files
+*.db-shm
+*.db-journal
+
+# Local temporary files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
